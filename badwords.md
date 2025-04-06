@@ -1,6 +1,6 @@
 The chinese or japanese characters from badwords.txt translated using google.
 
-| original  | japanese   | chines    |
+| original  | japanese   | chinese   |
 | --------- | ---------- | --------- |
 | pk黑社会   | Pk 黑社 Board   | Pk underworld  |
 | 六 四   | Sixty-four   | Sixty-four  |
