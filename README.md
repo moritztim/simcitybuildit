@@ -181,7 +181,8 @@ the exact details I still need to figure out.
 
 # local storage
 
-on android the local game storage is in `/data/data/com.ea.game.simcitymobile_row/files/`.
+On android the local game storage is in `/data/data/com.ea.game.simcitymobile_row/files/`.
+
 On iOS it's a little more complicated, there's a folder with a random name at `/private/var/containers/Bundle/Application/` containing a subfolder with the app data. For example: `/private/var/containers/Bundle/Application/05B30DEF-13B1-45C6-84C6-4804E74D91DD/SimCity.app` To find it, use a glob like this: `/private/var/containers/Bundle/Application/*/SimCity.app`.
 
 ## 0.pb
