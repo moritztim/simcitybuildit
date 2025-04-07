@@ -115,7 +115,7 @@ field types:
 
 # network protocol
 
- * The initial url is: http://live.simcitybuildit.com/simcity/
+ * The initial url is: http://live.prod.simcitybuildit.com/simcity/
  * after login the user gets a new url to use, usually a numeric ip address, and confusingly (but not inconveniently) using http over port 443 
  * requests are either with POST or GET
 
