@@ -45,7 +45,7 @@ AppLovinSDKResources.bundle/zh-Hans.lproj/Localizable.strings,Binary,910,,,,,352
 AppLovinSDKResources.bundle/zh-Hant.lproj/Localizable.strings,Binary,910,,,,,44b30a430c159e42aa8c31ec992143ba0aba685d8593c18e351d760130cc932e
 ar.lproj/InfoPlist.strings,Binary,1859,plain text[CRLF],,,,d6466d51bb3ad68653a03a96c4ceb1e667c3cb86ee3a36aec1bd1a55307a7637
 Assets.car,Binary,3984040,,,,,7d213c6297247114311c05d386001bc2c7226f7d3ea9d706112873b29d5e757e
-audio/music/music_tutorial.ogg,Binary,938150,Ogg Vorbis[by extension],,,,b22207cc904d413abb3c6bf338bfa72fa100ce6b6a1c07adb710064c1326b104
+audio/music/music_tutorial.ogg,Binary,938150,Ogg Vorbis[by extension],,,Unencrypted; Duration: 1:24,b22207cc904d413abb3c6bf338bfa72fa100ce6b6a1c07adb710064c1326b104
 audio/sound_main.group.bin,Binary,7446002,,,,,c463719b5ac473317a9c72e94e593afa46a358dedf30a3a4d999124b9df92ae5
 audio/sound_xml.group.bin,Binary,40878,,,,,d62f0f57554ad9850f4c4ee5fd09ba073a58fb930fc051f4c2a568b1c96269fe
 AvenirLTStd-Heavy.otf,Binary,28508,TrueType font (.TTF),,,,c9bb99645abe71c45a7aab5d8877cbca30ad03d906a428142246f82b5be62005
@@ -682,7 +682,7 @@ nanopb_Privacy.bundle/Info.plist,Binary,777,,,,,7bd7bb1723685986d38ba0d62968061e
 nanopb_Privacy.bundle/PrivacyInfo.xcprivacy,Binary,374,plain text[LF],XML(1.0),,,729ba3cbd0f458c78cd61edf17350edafe0e34ca86e314ec64c8cb22ccd21b54
 nl.lproj/InfoPlist.strings,Binary,1474,plain text[CRLF],,,,16825a0c08860f9e5e46877a76e14b64c25466fcaff0cac6e81e9bf58cf50c71
 particles/particles.group.bin,Binary,131967,,,,,d56d42726704eefc31470bec4f20dc81091f97d511ff22df36d0e5c7e4bfb2ba
-PkgInfo,Binary,8,plain text,,,,82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0
+PkgInfo,Binary,8,plain text,,,Content: APPL????,82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0
 pl.lproj/InfoPlist.strings,Binary,1543,plain text[CRLF],,,,d2d05cb6535158042dfcc6abdb074673505fafdfd0a282f5b7c9a8288e62a871
 planes/planes.group.bin,Binary,106012,,,,,2740a5f141f9b1507419670d6d97f1e0630e0b5d43886b78c5a1a6447233a8c8
 PrivacyInfo.xcprivacy,Binary,4487,plain text[LF],XML(1.0),,,48f0fdde1e1fa0a00197c79c0d7207dd8b52c11a96d41be0d3a76ce65deefd7c
@@ -1244,7 +1244,7 @@ routes/routes.group.bin,Binary,234162,,,,,4d2e1e4c48901fc302ae57e8a43e1ff5ad30d2
 ru.lproj/InfoPlist.strings,Binary,2270,plain text[CRLF],,,,13585a448bd0be3ba7614b08eeac165f3e7afd97aeab598a25781824f486617d
 rubble/Rubble.group.bin,Binary,48111,,,,,c0c9211bd02f921f8237b925c4ac105148d61518db3d0b9a8bafcb166239582c
 s3e.icf,Binary,3743,plain text[LF],,,,d16ef2dc8d38f2db5d4de0555f1837161b0ad89055e96446bb158c379fbcd73c
-s3eWebView.js,Binary,1801,plain text[CRLF],JavaScript,,,22e94bbda7815c6e4f04b0e4ba0da9895da6d44209243413c78b1f68f322ce9a
+s3eWebView.js,Binary,1801,plain text[CRLF],JavaScript,,This file ships with a developer comment,22e94bbda7815c6e4f04b0e4ba0da9895da6d44209243413c78b1f68f322ce9a
 SC_Info/Manifest.plist,Binary,361,plain text[LF],XML(1.0),,,fd51def3b89d00838c49d67956a8e00c6df01d724a25ce75dc9ed538e04d3a51
 SC_Info/SimCity.sinf,Binary,1072,,,,,b7bdef6288c386eceb4067658db5eb037e25e492b0d7a2fa7b901d0ec0cfdb5f
 SC_Info/SimCity.supf,Binary,924,,,,,9e56994868d0f859369d3ad5f3747f0a06e1695391dd0750010e5ba16938653d
@@ -1295,8 +1295,8 @@ textures/game_splash.jpg,Binary,1560733,JPEG Image[by extension],,"Image: JPEG(1
 textures/GameLogo.group.bin,Binary,24781,,,,,a1e5f4fe81dd14939f5f5004f94ab13a437a4acbe58809c6bfa8584c228b72f8
 textures/GameLogoOverlay.group.bin,Binary,152355,,,,,79ff469a5d8c2d07d41086be3ee5a5eedf9247a97bc7b9d24a20ead2de61f6bc
 textures/ground_textures.group.bin,Binary,1376696,,,,,4acb2f80075c2851ea5d004c57911d3ba97113cf08640daed47245b92904e4c1
-textures/screenshot_logo_simcity.png,Binary,7803,Portable Network Graphics,"Image: PNG[RGBA,204x59,colours:256,sz:7803]\n(Heur)",,Unencrypted,5ad78328e7822a13dece86399e6371222e63e2825abd73be2977be4828c98eb1
-textures/screenshot_logo_simcity_4k.png,Binary,13552,Portable Network Graphics,"Image: PNG[RGBA,408x117,colours:256,sz:13552]\n(Heur)",,Unencrypted,bf86e2bc0178d0777e7c52c9844cfade096c49f600ed45a0ec29f352d8243680
+textures/screenshot_logo_simcity.png,Binary,7803,Portable Network Graphics,"Image: PNG[RGBA,204x59,colours:256,sz:7803]\n(Heur)",,Unencrypted; Logo with transparent bg as overlay for screenshots,5ad78328e7822a13dece86399e6371222e63e2825abd73be2977be4828c98eb1
+textures/screenshot_logo_simcity_4k.png,Binary,13552,Portable Network Graphics,"Image: PNG[RGBA,408x117,colours:256,sz:13552]\n(Heur)",,Unencrypted; Logo with transparent bg as overlay for screenshots,bf86e2bc0178d0777e7c52c9844cfade096c49f600ed45a0ec29f352d8243680
 textures/Textures.group.bin,Binary,1810358,,,,,fa97345906a9bedc03d25bcdc9bb585c1c7487254ecdd77c20d51af8277877b4
 tr.lproj/InfoPlist.strings,Binary,1428,plain text[CRLF],,,,151fd0cac4f97be2e971932ca5c4f59930113301b3eabe3753884a350733752a
 traffic/traffic.group.bin,Binary,172843,,,,,a8c2382499338e7eb52548944e804688e9a5156d68fde8ed99770d3cb1fb964b

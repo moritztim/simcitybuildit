@@ -16,12 +16,12 @@
 | [frame_window_new_01.png](./frame_window_new_01.png) | Binary | 11380 | Portable Network Graphics[by extension] |  |  | Correct Header but no valid image data | c30adc3f39c6635d49bf6dd8aa5a854406493645843c12a1555b7d1c0997fa0b |
 | [GoogleService-Info.plist](./GoogleService-Info.plist) | Binary | 860 |  |  |  |  | 286a4e7315fb5af69aa560c44dd45c931722374f3ef04533366bb35bb64b58f4 |
 | [ident.free](./ident.free) | Binary | 64 | plain text |  |  |  | 29572fba4d83f83b1162cdfbbc739f9a4f8cd21a940112c5e8e599217a013151 |
-| [Info.plist](./Info.plist) | Binary | 34297 | plain text[LF] | XML(1.0) |  |  | 01421a07bf1fb195202b1d5e9b82b50fba7e6625682ccdc98e1a7b1682839b65 |
+| [Info.plist](./Info.plist) | Binary | 34297 | plain text[LF] | XML(1.0) |  | A firebase database URL and API key as well as a facebook client token are available in plain text. They are also using an appspot.com storage bucket | 01421a07bf1fb195202b1d5e9b82b50fba7e6625682ccdc98e1a7b1682839b65 |
 | [MainWindow.nib](./MainWindow.nib) | Binary | 839 |  |  |  |  | 27861286b6b877c08da4df41898301749427566cf67fc5e7bfc0e31e4b8cc2f1 |
-| [PkgInfo](./PkgInfo) | Binary | 8 | plain text |  |  |  | 82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0 |
+| [PkgInfo](./PkgInfo) | Binary | 8 | plain text |  |  | Content: APPL???? | 82502191c9484b04d685374f9879a0066069c49b8acae7a04b01d38d07e8eca0 |
 | [PrivacyInfo.xcprivacy](./PrivacyInfo.xcprivacy) | Binary | 4487 | plain text[LF] | XML(1.0) |  |  | 48f0fdde1e1fa0a00197c79c0d7207dd8b52c11a96d41be0d3a76ce65deefd7c |
 | [s3e.icf](./s3e.icf) | Binary | 3743 | plain text[LF] |  |  |  | d16ef2dc8d38f2db5d4de0555f1837161b0ad89055e96446bb158c379fbcd73c |
-| [s3eWebView.js](./s3eWebView.js) | Binary | 1801 | plain text[CRLF] | JavaScript |  |  | 22e94bbda7815c6e4f04b0e4ba0da9895da6d44209243413c78b1f68f322ce9a |
+| [s3eWebView.js](./s3eWebView.js) | Binary | 1801 | plain text[CRLF] | JavaScript |  | This file ships with a developer comment | 22e94bbda7815c6e4f04b0e4ba0da9895da6d44209243413c78b1f68f322ce9a |
 | [Season60x60@2x.png](./Season60x60@2x.png) | Binary | 38704 | Portable Network Graphics[by extension] |  |  | Correct Header but no valid image data | bf0a9f6c7f638ab90e6411c0bf4a2feca0e478a7b27a085dba8134bb926145d9 |
 | [Season76x76@2x~ipad.png](./Season76x76@2x~ipad.png) | Binary | 59741 | Portable Network Graphics[by extension] |  |  | Correct Header but no valid image data | e76ac19bbbe74fffc1ae840d7a3248796b81fb5be0b3ba75771c2de8e4da4560 |
 | [SimCity](./SimCity) | Mach-O64 | 43117520 |  |  | Operation system: iOS(13.0.0)[ARM64, 64-bit, EXECUTE] |  | 71e9682fa1658b7cf37583729a7dfeaa52a3aef0a51efc1b715d096d93bc68d7 |

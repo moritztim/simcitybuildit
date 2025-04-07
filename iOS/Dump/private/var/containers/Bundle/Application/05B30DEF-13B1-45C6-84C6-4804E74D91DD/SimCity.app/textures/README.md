@@ -8,8 +8,8 @@
 | [textures/GameLogo.group.bin](./textures/GameLogo.group.bin) | Binary | 24781 |  |  |  |  | a1e5f4fe81dd14939f5f5004f94ab13a437a4acbe58809c6bfa8584c228b72f8 |
 | [textures/GameLogoOverlay.group.bin](./textures/GameLogoOverlay.group.bin) | Binary | 152355 |  |  |  |  | 79ff469a5d8c2d07d41086be3ee5a5eedf9247a97bc7b9d24a20ead2de61f6bc |
 | [textures/ground_textures.group.bin](./textures/ground_textures.group.bin) | Binary | 1376696 |  |  |  |  | 4acb2f80075c2851ea5d004c57911d3ba97113cf08640daed47245b92904e4c1 |
-| [textures/screenshot_logo_simcity.png](./textures/screenshot_logo_simcity.png) | Binary | 7803 | Portable Network Graphics | Image: PNG[RGBA,204x59,colours:256,sz:7803]\n(Heur) |  | Unencrypted | 5ad78328e7822a13dece86399e6371222e63e2825abd73be2977be4828c98eb1 |
-| [textures/screenshot_logo_simcity_4k.png](./textures/screenshot_logo_simcity_4k.png) | Binary | 13552 | Portable Network Graphics | Image: PNG[RGBA,408x117,colours:256,sz:13552]\n(Heur) |  | Unencrypted | bf86e2bc0178d0777e7c52c9844cfade096c49f600ed45a0ec29f352d8243680 |
+| [textures/screenshot_logo_simcity.png](./textures/screenshot_logo_simcity.png) | Binary | 7803 | Portable Network Graphics | Image: PNG[RGBA,204x59,colours:256,sz:7803]\n(Heur) |  | Unencrypted; Logo with transparent bg as overlay for screenshots | 5ad78328e7822a13dece86399e6371222e63e2825abd73be2977be4828c98eb1 |
+| [textures/screenshot_logo_simcity_4k.png](./textures/screenshot_logo_simcity_4k.png) | Binary | 13552 | Portable Network Graphics | Image: PNG[RGBA,408x117,colours:256,sz:13552]\n(Heur) |  | Unencrypted; Logo with transparent bg as overlay for screenshots | bf86e2bc0178d0777e7c52c9844cfade096c49f600ed45a0ec29f352d8243680 |
 | [textures/Textures.group.bin](./textures/Textures.group.bin) | Binary | 1810358 |  |  |  |  | fa97345906a9bedc03d25bcdc9bb585c1c7487254ecdd77c20d51af8277877b4 |
 
 
