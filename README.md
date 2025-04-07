@@ -1,3 +1,6 @@
+> Disclaimer:
+> Most of the information in this repository is severely outdated.
+
 # simcitybuildit
 Documenting Simcity Buildit internals
 
