@@ -1,3 +1,6 @@
+> Disclaimer:
+> Most of the information in this repository is severely outdated.
+
 # simcitybuildit
 Documenting Simcity Buildit internals
 
@@ -7,11 +10,23 @@ The game is build upon the marmalade game engine.
 in .apk files the main binary is in Simcity.s3e, this is a lzma compressed file, you can use 7zip to decompress it.
 in .ipa file the s3e binary is embedded in the main executable, and scrambled somewhat. I'll post a decoder later.
 
-The game data is in .group.bin files. These are lz4 compressed, ( `brew install lz4` for the decompressor ).
-I'll post a decoder for these later.
+The game data is in .group.bin files. These used to be lz4 compressed, ( `brew install lz4` for the decompressor ), however in the latest version they are now encrypted, as confirmed by no lz4 header and a high entropy. [DiE](https://github.com/horsicq/Detect-It-Easy) finds that most of the `.group.bin` files are raw deflate streams.
 
 One intereting example i post here: [badwords.txt](badwords.txt).
-reading through the list you find the usual profanity, but apparently also the 1989 Tiananmen Square massacre, or Tibettan independence are listed as 'badwords'. ( referred to as 'may 35th' - `5月35日`  or `5月35号` ).
+reading through the list you find the usual profanity, but apparently also the 1989 Tiananmen Square massacre, or Tibettan independence are listed as 'badwords'. ( referred to as 'may 35th' - `5月35日`  or `5月35号` ). Part of the list seems to be in order of writing, so you can follow the author's train of thought. Here's some more intersting examples of "bad words" in order of appearance:
+- gay
+- jews
+- capital
+- affenarsch (monkey ass in german)
+- antichrist
+- assyria
+- ast
+- ballfondler
+- revolution
+- twitter
+- xijinping
+- sweaty balls
+- hollywood
 
 See [badwords.md](badwords.md) for a google-translated version.
 
@@ -23,6 +38,9 @@ See [badwords.md](badwords.md) for a google-translated version.
 # Downloads
 
  * [decodecsv.py](decodecsv.py) - a script for decoding csv.group.bin, and other data files.
+
+<details>
+	<summary>group.bin format (outdated)</summary>
 
 # group.bin format
 
@@ -105,10 +123,12 @@ field types:
 |   1   | uint32 | number
 |   2   | float32 | floating point number
 |   3   | uint32  | color value
+	
+</details>
 
 # network protocol
 
- * The initial url is: http://live.simcitybuildit.com/simcity/
+ * The initial url is: http://live.prod.simcitybuildit.com/simcity/
  * after login the user gets a new url to use, usually a numeric ip address, and confusingly (but not inconveniently) using http over port 443 
  * requests are either with POST or GET
 
