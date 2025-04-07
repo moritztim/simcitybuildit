@@ -1,8 +1,8 @@
 ﻿Path,Type,Size,Format,Language,DiE Info,Notes,Hash
 _CodeSignature/CodeResources,Binary,467978,plain text[LF],XML(1.0),,,61bb98cff1b8c952c2199456cf5b4b8133e79d3ff2e6f2df1b1f724463ef3ca2
 app.icf,Binary,5940,plain text[LF],,,,27ea5f9e0f9aba2a73187a34f0fa1f40e251842fb702a3345e191939c8735abc
-AppIcon60x60@2x.png,Binary,36524,Portable Network Graphics[by extension],,,,010c75a04711e723980d086df72c5404a98a8946c6d1583bc70dca4808abb2fa
-AppIcon76x76@2x~ipad.png,Binary,56249,Portable Network Graphics[by extension],,,,605d6dfb16d1b551be2beaf76e14d223f7c03d1d1e637e7c0c24b836a0861810
+AppIcon60x60@2x.png,Binary,36524,Portable Network Graphics[by extension],,,Correct Header but no valid image data,010c75a04711e723980d086df72c5404a98a8946c6d1583bc70dca4808abb2fa
+AppIcon76x76@2x~ipad.png,Binary,56249,Portable Network Graphics[by extension],,,Correct Header but no valid image data,605d6dfb16d1b551be2beaf76e14d223f7c03d1d1e637e7c0c24b836a0861810
 AppLovinSDKResources.bundle/_CodeSignature/CodeDirectory,Binary,170,,,,,b9a74baf455cbdf2920051433231a0e88b257779dc05227509ffc5c3be908e19
 AppLovinSDKResources.bundle/_CodeSignature/CodeRequirements,Binary,188,,,,,b8a274c993950e31b575878f080f421417203f860612e5ff263ebea50a28dfee
 AppLovinSDKResources.bundle/_CodeSignature/CodeRequirements-1,Binary,218,,,,,fa5876bb8cdd8f27d75385ece747fff70387f52a7b8b8ce50c112ca61e5b6722
@@ -467,9 +467,9 @@ buildingaddons/winterholiday19_03.group.bin,Binary,92754,,,,,07cf61505d5e9ef0b76
 buildingaddons/winterholiday19_04.group.bin,Binary,124515,,,,,a50b7821f9cd21ee4bcb810c11bac4f46ebd320a02a1d53b35722415cda83569
 buildingaddons/wintersport18.group.bin,Binary,135511,,,,,aca0700a166f0af30da88145bc313be36732994c8824650c7782d2007782f9a3
 buildingaddons/Wonders.group.bin,Binary,77305,,,,,e68364a231203f8838340ab073d2d141915b53132102a59fdaa071157d820628
-button_blue_01.png,Binary,7632,Portable Network Graphics[by extension],,,,b765f6ba33e4d52f9884e75b55651f54aa5f00ef08f6bc3051b8fbd1f8aa0b9f
-button_gray_01.png,Binary,9607,Portable Network Graphics[by extension],,,,4428836af674ffa71f2a188f0cfb8cb00c778520f2697f702eaa063abcc0e177
-button_green_01.png,Binary,12865,Portable Network Graphics[by extension],,,,53e7d3e485ca9f1ac5330301393d8e2a856984dc45b7c59033376bdc5e9bbfdd
+button_blue_01.png,Binary,7632,Portable Network Graphics[by extension],,,Correct Header but no valid image data,b765f6ba33e4d52f9884e75b55651f54aa5f00ef08f6bc3051b8fbd1f8aa0b9f
+button_gray_01.png,Binary,9607,Portable Network Graphics[by extension],,,Correct Header but no valid image data,4428836af674ffa71f2a188f0cfb8cb00c778520f2697f702eaa063abcc0e177
+button_green_01.png,Binary,12865,Portable Network Graphics[by extension],,,Correct Header but no valid image data,53e7d3e485ca9f1ac5330301393d8e2a856984dc45b7c59033376bdc5e9bbfdd
 consent_form_overrides.css,Binary,3484,plain text[LF],Cascading Style Sheets[by extension],,,b00ca40e0c1f9e4c838288a0b90f2b3c95cd253e2af76c4d4f3b42a04f70b41b
 consent_full.css,Binary,468,plain text[LF],Cascading Style Sheets[by extension],,,a0981dd2005b43c3dd04f4aad9c245fd2523dc649d7d8a02da983b1c34039e70
 constructionsite/constructionsite.group.bin,Binary,163517,,,,,038308187625df656af83cfd4a5cfb20e4a7f205b0723144b40dd17150be65a2
@@ -556,8 +556,8 @@ FirebaseInstallations_Privacy.bundle/PrivacyInfo.xcprivacy,Binary,1105,plain tex
 FirebaseRemoteConfig_Privacy.bundle/Info.plist,Binary,806,,,,,0f9c70be311caacb69689c104d4c4ef93ad7d3f2938fa5d4a71a54a0f32a70c6
 FirebaseRemoteConfig_Privacy.bundle/PrivacyInfo.xcprivacy,Binary,1482,plain text[LF],XML(1.0),,,b9c360b5bb58ddb18eab5282ea4c8145e1f7ad0de14563916ab9a5a420fe4f38
 fr.lproj/InfoPlist.strings,Binary,1537,plain text[CRLF],,,,74a35ff7d5fe4ff9f858f6b6231cf1bc39661bd02eb80183532600b77cbedccc
-frame_bubble_new_02.png,Binary,45715,Portable Network Graphics[by extension],,,,03498b4c985aed68e2011658e942f7d5ce4f7fa17af1943233d279e20906a8d1
-frame_window_new_01.png,Binary,11380,Portable Network Graphics[by extension],,,,c30adc3f39c6635d49bf6dd8aa5a854406493645843c12a1555b7d1c0997fa0b
+frame_bubble_new_02.png,Binary,45715,Portable Network Graphics[by extension],,,Correct Header but no valid image data,03498b4c985aed68e2011658e942f7d5ce4f7fa17af1943233d279e20906a8d1
+frame_window_new_01.png,Binary,11380,Portable Network Graphics[by extension],,,Correct Header but no valid image data,c30adc3f39c6635d49bf6dd8aa5a854406493645843c12a1555b7d1c0997fa0b
 Frameworks/anzu.sdk.framework/_CodeSignature/CodeResources,Binary,2106,plain text[LF],XML(1.0),,,941e6308748db1e39e292af338d3ae23e0f6b64f6dbebbcc31bfd1890425f38a
 Frameworks/anzu.sdk.framework/anzu.sdk,Mach-O64,2179984,,,"Operation system: iOS(9.0.0)[ARM64, 64-bit, DYLIB]\nLibrary: WebKit",,7a7228ed9d58abf9973bb529af9f15ceab9e67e876d898f6c79fc8e19c1ce1c3
 Frameworks/anzu.sdk.framework/Info.plist,Binary,854,,,,,30555c40597a75d38c9d041dcbca1c75531653b14a6a74f50b9062293fcc9142
@@ -1250,8 +1250,8 @@ SC_Info/SimCity.sinf,Binary,1072,,,,,b7bdef6288c386eceb4067658db5eb037e25e492b0d
 SC_Info/SimCity.supf,Binary,924,,,,,9e56994868d0f859369d3ad5f3747f0a06e1695391dd0750010e5ba16938653d
 SC_Info/SimCity.supp,Binary,200964,,,,,16f3d59c1c3232506b7cfab5dd415b5d3fb59631f909c68b179d501d2b949eca
 SC_Info/SimCity.supx,Binary,80,,,,,5a61fedb71ee8b51483e09742bfa9ed93ac829d7627fee34f8e9aed6cb3c3506
-Season60x60@2x.png,Binary,38704,Portable Network Graphics[by extension],,,,bf0a9f6c7f638ab90e6411c0bf4a2feca0e478a7b27a085dba8134bb926145d9
-Season76x76@2x~ipad.png,Binary,59741,Portable Network Graphics[by extension],,,,e76ac19bbbe74fffc1ae840d7a3248796b81fb5be0b3ba75771c2de8e4da4560
+Season60x60@2x.png,Binary,38704,Portable Network Graphics[by extension],,,Correct Header but no valid image data,bf0a9f6c7f638ab90e6411c0bf4a2feca0e478a7b27a085dba8134bb926145d9
+Season76x76@2x~ipad.png,Binary,59741,Portable Network Graphics[by extension],,,Correct Header but no valid image data,e76ac19bbbe74fffc1ae840d7a3248796b81fb5be0b3ba75771c2de8e4da4560
 Settings.bundle/en.lproj/Root.strings,Binary,396,,,,,ad65ce7f28db4355829f734a60c0d5b86cc50cb8ca1f50427b599fb9eb4c560c
 Settings.bundle/Root.plist,Binary,1035,plain text[LF],XML(1.0),,,d36315f5a5056aa12588d42309e4050f07cbf5155e7dec560b72d46f1a7fe01e
 shaders/Shader.group.bin,Binary,84274,,,,,6c99552caca83642ba852ed4097995b8474aa24b82de64a798cbb5c7d3e3669b
@@ -1291,12 +1291,12 @@ streetevents/streetevents.group.bin,Binary,1346262,,,,,1786ed45ae807e0d530b3f7db
 terrain/terrain.group.bin,Binary,327691,,,,,cc63acf834d47486c25b3eeacdf320c229f60248c8259aef925934f39bae41f3
 textures/Cubemaps.group.bin,Binary,167456,,,,,27a65a4af8b6cc0d4b2711d490eb0383a9991bc516c64656b552490327f23d77
 textures/EALogo.group.bin,Binary,14990,,,,,3f934120fd7e9bb00e3605de5919d3688635d7b71b5001b4b0509cdd8966fd69
-textures/game_splash.jpg,Binary,1560733,JPEG Image[by extension],,"Image: JPEG(1.01)[2730x1536,YCbCr]\nAudio: ProTracker module (.PT3)(v3.)[\n\n,by:  """"��,tmp:13 ord:7,Unknown tuning]\nImage: DQT[f9a93cb70da7bbe87e35cd9980a5fd47]",,9d33fa50562d46cf5e1b3bdb5e0e415868ca6c267490af640d1c82a43542dd2d
+textures/game_splash.jpg,Binary,1560733,JPEG Image[by extension],,"Image: JPEG(1.01)[2730x1536,YCbCr]\nAudio: ProTracker module (.PT3)(v3.)[\n\n,by:  """"��,tmp:13 ord:7,Unknown tuning]\nImage: DQT[f9a93cb70da7bbe87e35cd9980a5fd47]",Unencrypted,9d33fa50562d46cf5e1b3bdb5e0e415868ca6c267490af640d1c82a43542dd2d
 textures/GameLogo.group.bin,Binary,24781,,,,,a1e5f4fe81dd14939f5f5004f94ab13a437a4acbe58809c6bfa8584c228b72f8
 textures/GameLogoOverlay.group.bin,Binary,152355,,,,,79ff469a5d8c2d07d41086be3ee5a5eedf9247a97bc7b9d24a20ead2de61f6bc
 textures/ground_textures.group.bin,Binary,1376696,,,,,4acb2f80075c2851ea5d004c57911d3ba97113cf08640daed47245b92904e4c1
-textures/screenshot_logo_simcity.png,Binary,7803,Portable Network Graphics,"Image: PNG[RGBA,204x59,colours:256,sz:7803]\n(Heur)",,,5ad78328e7822a13dece86399e6371222e63e2825abd73be2977be4828c98eb1
-textures/screenshot_logo_simcity_4k.png,Binary,13552,Portable Network Graphics,"Image: PNG[RGBA,408x117,colours:256,sz:13552]\n(Heur)",,,bf86e2bc0178d0777e7c52c9844cfade096c49f600ed45a0ec29f352d8243680
+textures/screenshot_logo_simcity.png,Binary,7803,Portable Network Graphics,"Image: PNG[RGBA,204x59,colours:256,sz:7803]\n(Heur)",,Unencrypted,5ad78328e7822a13dece86399e6371222e63e2825abd73be2977be4828c98eb1
+textures/screenshot_logo_simcity_4k.png,Binary,13552,Portable Network Graphics,"Image: PNG[RGBA,408x117,colours:256,sz:13552]\n(Heur)",,Unencrypted,bf86e2bc0178d0777e7c52c9844cfade096c49f600ed45a0ec29f352d8243680
 textures/Textures.group.bin,Binary,1810358,,,,,fa97345906a9bedc03d25bcdc9bb585c1c7487254ecdd77c20d51af8277877b4
 tr.lproj/InfoPlist.strings,Binary,1428,plain text[CRLF],,,,151fd0cac4f97be2e971932ca5c4f59930113301b3eabe3753884a350733752a
 traffic/traffic.group.bin,Binary,172843,,,,,a8c2382499338e7eb52548944e804688e9a5156d68fde8ed99770d3cb1fb964b
