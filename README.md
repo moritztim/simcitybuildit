@@ -13,7 +13,20 @@ in .ipa file the s3e binary is embedded in the main executable, and scrambled so
 The game data is in .group.bin files. These used to be lz4 compressed, ( `brew install lz4` for the decompressor ), however in the latest version they are now encrypted, as confirmed by no lz4 header and a high entropy. [DiE](https://github.com/horsicq/Detect-It-Easy) finds that most of the `.group.bin` files are raw deflate streams.
 
 One intereting example i post here: [badwords.txt](badwords.txt).
-reading through the list you find the usual profanity, but apparently also the 1989 Tiananmen Square massacre, or Tibettan independence are listed as 'badwords'. ( referred to as 'may 35th' - `5月35日`  or `5月35号` ).
+reading through the list you find the usual profanity, but apparently also the 1989 Tiananmen Square massacre, or Tibettan independence are listed as 'badwords'. ( referred to as 'may 35th' - `5月35日`  or `5月35号` ). Part of the list seems to be in order of writing, so you can follow the author's train of thought. Here's some more intersting examples of "bad words" in order of appearance:
+- gay
+- jews
+- capital
+- affenarsch (monkey ass in german)
+- antichrist
+- assyria
+- ast
+- ballfondler
+- revolution
+- twitter
+- xijinping
+- sweaty balls
+- hollywood
 
 See [badwords.md](badwords.md) for a google-translated version.
 
