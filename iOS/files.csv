@@ -634,7 +634,7 @@ GoogleUtilities_Privacy.bundle/Info.plist,Binary,794,,,,,b94abdc7be735cccb3a429b
 GoogleUtilities_Privacy.bundle/PrivacyInfo.xcprivacy,Binary,1289,plain text[LF],XML(1.0),,,8f164233c5d215fb06ceb8784934021dddd7d39a89d795e56ba5c832ab0fb3f7
 id.lproj/InfoPlist.strings,Binary,1316,plain text[CRLF],,,,fb653caea007615065f8636bc10387ca7aed39ab8421b6f45c61fc99b6b26068
 ident.free,Binary,64,plain text,,,,29572fba4d83f83b1162cdfbbc739f9a4f8cd21a940112c5e8e599217a013151
-Info.plist,Binary,34297,plain text[LF],XML(1.0),,,01421a07bf1fb195202b1d5e9b82b50fba7e6625682ccdc98e1a7b1682839b65
+Info.plist,Binary,34297,plain text[LF],XML(1.0),,A firebase database URL and API key as well as a facebook client token are available in plain text. They are also using an appspot.com storage bucket,01421a07bf1fb195202b1d5e9b82b50fba7e6625682ccdc98e1a7b1682839b65
 IronSourcePrivacyInfo.bundle/Info.plist,Binary,790,,,,,8ac96ea24f78cfa6aeb0f168719be81c49b5b0da0bf8209801e0badeba1b9eef
 IronSourcePrivacyInfo.bundle/PrivacyInfo.xcprivacy,Binary,724,plain text[LF],XML(1.0),,,112ff01cf511ae1aa85aa968b87e89c9523963b14a635a6069632991b3c6a341
 ISAdMobResources.bundle/ISAdMobNativeBannerTemplateBasicView.nib,Binary,5796,,,,,f124923d054f188a1862980ec277436085598bfce82308a2fc82853995ee607e
