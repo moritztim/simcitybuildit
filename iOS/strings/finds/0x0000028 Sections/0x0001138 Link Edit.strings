@@ -1,0 +1,107 @@
+   1138 __LINKEDIT
+
+
+   121c /usr/lib/dyld
+   12c0 /usr/lib/libz.1.dylib
+   12f0 /usr/lib/libsqlite3.dylib
+
+   1328 /System/Library/Frameworks/UIKit.framework/UIKit
+   1378 /System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+   13d8 /System/Library/Frameworks/StoreKit.framework/StoreKit
+   1428 /System/Library/Frameworks/AppTrackingTransparency.framework/AppTrackingTransparency
+   1498 /System/Library/Frameworks/AdServices.framework/AdServices
+   14f0 /System/Library/Frameworks/AdSupport.framework/AdSupport
+   1548 /System/Library/Frameworks/AuthenticationServices.framework/AuthenticationServices
+
+   15b8 /usr/lib/libc++.1.dylib
+   15e8 /usr/lib/libxml2.2.dylib
+
+   1620 /System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+   1678 /System/Library/Frameworks/AVFoundation.framework/AVFoundation
+   16d0 /System/Library/Frameworks/CFNetwork.framework/CFNetwork
+   1728 /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+   1788 /System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+   17e0 /System/Library/Frameworks/CoreLocation.framework/CoreLocation
+   1838 /System/Library/Frameworks/CoreMedia.framework/CoreMedia
+   1890 /System/Library/Frameworks/EventKit.framework/EventKit
+   18e0 /System/Library/Frameworks/EventKitUI.framework/EventKitUI
+   1938 /System/Library/Frameworks/Foundation.framework/Foundation
+   1990 /System/Library/Frameworks/ImageIO.framework/ImageIO
+   19e0 /System/Library/Frameworks/JavaScriptCore.framework/JavaScriptCore
+   1a40 /System/Library/Frameworks/MapKit.framework/MapKit
+   1a90 /System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+   1ae8 /System/Library/Frameworks/MessageUI.framework/MessageUI
+   1b40 /System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+   1ba8 /System/Library/Frameworks/PassKit.framework/PassKit
+   1bf8 /System/Library/Frameworks/QuartzCore.framework/QuartzCore
+   1c50 /System/Library/Frameworks/Security.framework/Security
+   1ca0 /System/Library/Frameworks/Social.framework/Social
+   1cf0 /System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+   1d58 /System/Library/Frameworks/WebKit.framework/WebKit
+   1da8 /System/Library/Frameworks/WatchConnectivity.framework/WatchConnectivity
+   1e10 /System/Library/Frameworks/MetalKit.framework/MetalKit
+   1e60 /System/Library/Frameworks/iAd.framework/iAd
+
+   1ea8 @rpath/fuelmetrics.framework/fuelmetrics
+
+   1ef0 /System/Library/Frameworks/Accelerate.framework/Accelerate
+   1f48 /System/Library/Frameworks/CoreAudio.framework/CoreAudio
+   1fa0 @rpath/anzu.sdk.framework/anzu.sdk
+   1fe0 /System/Library/Frameworks/OpenGLES.framework/OpenGLES
+   2030 /System/Library/Frameworks/GameKit.framework/GameKit
+   2080 /System/Library/Frameworks/GLKit.framework/GLKit
+   20d0 /System/Library/Frameworks/AddressBook.framework/AddressBook
+   2128 /System/Library/Frameworks/CoreVideo.framework/CoreVideo
+   2180 /System/Library/Frameworks/CoreMotion.framework/CoreMotion
+   21d8 /System/Library/Frameworks/AVKit.framework/AVKit
+
+   2228 @rpath/AppLovinSDK.framework/AppLovinSDK
+   2270 @rpath/HelpshiftX.framework/HelpshiftX
+   22b0 @rpath/Singular.framework/Singular
+
+   22f0 /usr/lib/libobjc.A.dylib
+   2328 /usr/lib/libSystem.B.dylib
+
+   2360 /System/Library/Frameworks/Combine.framework/Combine
+   23b0 /System/Library/Frameworks/CoreImage.framework/CoreImage
+   2408 /System/Library/Frameworks/CoreServices.framework/CoreServices
+   2460 /System/Library/Frameworks/CryptoKit.framework/CryptoKit
+   24b8 /System/Library/Frameworks/MarketplaceKit.framework/MarketplaceKit
+   2518 /System/Library/Frameworks/Metal.framework/Metal
+   2568 /System/Library/Frameworks/MetricKit.framework/MetricKit
+   25c0 /System/Library/Frameworks/Network.framework/Network
+   2610 /System/Library/Frameworks/SafariServices.framework/SafariServices
+   2670 /System/Library/Frameworks/SwiftUI.framework/SwiftUI
+   26c0 /System/Library/Frameworks/UserNotifications.framework/UserNotifications
+
+   2728 /usr/lib/swift/libswiftAVFoundation.dylib
+   2770 /usr/lib/swift/libswiftCore.dylib
+   27b0 /usr/lib/swift/libswiftCoreAudio.dylib
+   27f0 /usr/lib/swift/libswiftCoreFoundation.dylib
+   2838 /usr/lib/swift/libswiftCoreImage.dylib
+   2878 /usr/lib/swift/libswiftCoreLocation.dylib
+   28c0 /usr/lib/swift/libswiftCoreMIDI.dylib
+   2900 /usr/lib/swift/libswiftCoreMedia.dylib
+   2940 /usr/lib/swift/libswiftDarwin.dylib
+   2980 /usr/lib/swift/libswiftDataDetection.dylib
+   29c8 /usr/lib/swift/libswiftDispatch.dylib
+   2a08 /usr/lib/swift/libswiftFileProvider.dylib
+   2a50 /usr/lib/swift/libswiftMetal.dylib
+   2a90 /usr/lib/swift/libswiftOSLog.dylib
+   2ad0 /usr/lib/swift/libswiftObjectiveC.dylib
+   2b10 /usr/lib/swift/libswiftQuartzCore.dylib
+   2b50 /usr/lib/swift/libswiftUniformTypeIdentifiers.dylib
+   2ba0 /usr/lib/swift/libswiftWebKit.dylib
+   2be0 /usr/lib/swift/libswiftXPC.dylib
+   2c20 /usr/lib/swift/libswift_StringProcessing.dylib
+   2c68 /usr/lib/swift/libswiftos.dylib
+   2ca0 /usr/lib/swift/libswiftsimd.dylib
+   2ce0 @rpath/libswift_Concurrency.dylib
+   2d20 /usr/lib/swift/libswiftCoreGraphics.dylib
+   2d68 /usr/lib/swift/libswiftFoundation.dylib
+   2da8 /usr/lib/swift/libswiftUIKit.dylib
+   2de8 /usr/lib/swift/libswiftNetwork.dylib
+   2e1c /usr/lib/swift
+
+   2e3c @executable_path/Frameworks
+   2e64 @loader_path/Frameworks

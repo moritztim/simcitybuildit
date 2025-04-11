@@ -1,0 +1,10 @@
+<s:Envelope s:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/" xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+ <s:Body>
+  <u:%s xmlns:u="%s">
+Content-Type: text/xml; charset="utf-8"
+SOAPAction: "%s#%s"
+Cache-Control: no-cache
+   <%s>%s</%s>
+  </u:%s>
+ </s:Body>
+</s:Envelope>

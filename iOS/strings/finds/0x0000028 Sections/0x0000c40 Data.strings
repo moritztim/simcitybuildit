@@ -1,0 +1,37 @@
+    c40 __DATA
+
+
+    c80 __la_symbol_ptr
+    c90 __DATA
+
+    cd0 __objc_const
+    ce0 __DATA
+    d20 __objc_selrefs
+    d30 __DATA
+    d70 __objc_protorefs
+    d80 __DATA
+    dc0 __objc_classrefs
+    dd0 __DATA
+    e10 __objc_superrefs
+    e20 __DATA
+    e60 __objc_ivar
+    e70 __DATA
+    eb0 __objc_data
+    ec0 __DATA
+
+    f00 __data
+    f10 __DATA
+
+    f50 __swift_hooks
+    f60 __DATA
+    fa0 __swift51_hooks
+    fb0 __DATA
+    ff0 __s_async_hook
+   1000 __DATA
+   1040 __swift56_hooks
+   1050 __DATA
+
+   1090 __common
+   10a0 __DATA
+   10e0 __bss
+   10f0 __DATA

@@ -1,0 +1,79 @@
+19bda08 values.%@
+
+19bda12 Could not store(Delete) string. Error was:%i
+19bda3f Could not store(Update) string. Error was:%i
+19bda6c Could not store(Add) string. Error was:%i
+
+19bda96 values.
+
+19bdaa2 if_nametoindex failure
+19bdab9 sysctl mgmtInfoBase failure
+19bdad5 buffer allocation failure
+19bdaef sysctl msgBuffer failure
+
+19bdb08 %02X:%02X:%02X:%02X:%02X:%02X
+
+19bdb26 Error: %@
+
+19bdb30 s3eCommon_ExceptionHandler: %@
+
+19bdb53 s3eCommonGetTimezoneName_platform
+19bdb75 tzName: %@
+
+19bdb80 s3eCommonGetFullLanguage_platform
+19bdba2 fullLang: %@
+
+
+19be319 Warn: Failed to destroy StarlightSecurity, There are other shared_ptr copies of StarlightSecurity.
+19be37d Warn: Failed to destroy StarlightLCM, There are other shared_ptr copies of StarlightLCM.
+19be3d7 Warn: Failed to destroy GluCustomerSupport, There are other shared_ptr copies of GluCustomerSupport.
+19be43d Warn: Failed to destroy GluMarketing, There are other shared_ptr copies of GluMarketing.
+19be497 Warn: Failed to destroy GluIAP, There are other shared_ptr copies of GluIAP.
+19be4e5 Warn: Failed to destroy GluAds, There are other shared_ptr copies of GluAds.
+19be533 Warn: Failed to destroy GluAnalytics, There are other shared_ptr copies of GluAnalytics.
+19be58d Warn: Failed to destroy GluAppTracking, There are other shared_ptr copies of GluAppTracking.
+19be5eb Warn: Failed to destroy GluCentralServices, There are other shared_ptr copies of GluCentralServices.
+
+
+19be6bd Unknown error!
+
+
+19bec6b unexpected message
+19bec7e bad record mac
+19bec8d decryption failed
+19bec9f record overflow
+
+19becaf decompression failure
+19becc5 handshake failure
+
+19becd7 no certificate
+19bece6 bad certificate
+19becf6 unsupported certificate
+19bed0e certificate revoked
+19bed22 certificate expired
+19bed36 certificate unknown
+19bed4a illegal parameter
+19bed5c unknown ca
+
+19bed67 access denied
+
+19bed75 decode error
+19bed82 decrypt error
+
+19bed90 export restriction
+19beda3 protocol version
+19bedb4 insufficient security
+19bedca internal error
+19bedd9 inappropriate fallback
+19bedf0 user cancelled
+19bedff no renegotiation
+
+19bee10 missing extension
+19bee22 unsupported extension
+
+19bee38 certificate unobtainable
+19bee51 unrecognized name
+19bee63 bad certificate status
+19bee7a bad certificate hash
+19bee8f unknown psk identify
+19beea4 certificate required

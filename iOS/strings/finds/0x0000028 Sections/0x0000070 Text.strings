@@ -1,0 +1,58 @@
+     70 __TEXT
+
+
+     b0 __text
+     c0 __TEXT
+
+    100 __stubs
+    110 __TEXT
+    150 __stub_helper
+    160 __TEXT
+
+    1a0 __objc_stubs
+    1b0 __TEXT
+    1f0 __cstring
+    200 __TEXT
+    240 __objc_classname
+     50 __TEXT
+    290 __objc_methname
+    2a0 __TEXT
+    2e0 __objc_methtype
+    2f0 __TEXT
+
+    330 __const
+    340 __TEXT
+    380 __gcc_except_tab
+    390 __TEXT
+    3d0 __ustring
+    3e0 __TEXT
+
+    420 __swift5_typeref
+    430 __TEXT
+    470 __swift5_fieldmd
+    480 __TEXT
+    4c0 __swift5_types
+    4d0 __TEXT
+    510 __constg_swiftt
+    520 __TEXT
+    560 __swift5_builtin
+    570 __TEXT
+    5b0 __swift5_reflstr
+    5c0 __TEXT
+    600 __swift5_assocty
+    610 __TEXT
+    650 __swift5_capture
+    660 __TEXT
+    6a0 __swift5_proto
+    6b0 __TEXT
+    6f0 __swift5_protos
+    700 __TEXT
+    740 __swift5_mpenum
+    750 __TEXT
+
+    790 __unwind_info
+    7a0 __TEXT
+    7e0 __eh_frame
+    7f0 __TEXT
+    830 __oslogstring
+    840 __TEXT

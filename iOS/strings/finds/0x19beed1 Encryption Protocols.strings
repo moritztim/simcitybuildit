@@ -1,0 +1,15 @@
+19beed1 md5WithRSAEncryption
+19beee6 sha1WithRSAEncryption
+19beefc sha256WithRSAEncryption
+19bef14 sha384WithRSAEncryption
+19bef2c sha512WithRSAEncryption
+19bef44 rsassa-pss
+19bef4f ecdsa-with-SHA256
+19bef61 ecdsa-with-SHA384
+19bef73 ecdsa-with-SHA512
+19bef85 eddsa-ed25519
+19bef93 SSLv3
+19bef99 TLSv1
+19bef9f TLSv1.1
+19befa7 TLSv1.2
+19befaf TLSv1.3

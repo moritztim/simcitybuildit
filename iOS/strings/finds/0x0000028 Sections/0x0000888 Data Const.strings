@@ -1,0 +1,28 @@
+    888 __DATA_CONST
+
+
+    8c8 __got
+    8d8 __DATA_CONST
+
+    918 __mod_init_func
+    928 __DATA_CONST
+    968 __mod_term_func
+    978 __DATA_CONST
+
+    9b8 __const
+    9c8 __DATA_CONST
+    a08 __cfstring
+    a18 __DATA_CONST
+
+    a58 __objc_classlist
+    a68 __DATA_CONST
+    aa8 __objc_nlclslist
+    ab8 __DATA_CONST
+    af8 __objc_catlist
+    b08 __DATA_CONST
+    b48 __objc_nlcatlist
+    b58__DATA_CONST
+    b98 __objc_protolist
+    ba8__DATA_CONST
+    be8 __objc_imageinfo
+    bf8__DATA_CONST
